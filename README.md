@@ -1,1 +1,1 @@
-Repo for llm-zoomcamp homework and projects
+Completed homework and projects for DataTalks.Club LLM Zoomcamp course 2026

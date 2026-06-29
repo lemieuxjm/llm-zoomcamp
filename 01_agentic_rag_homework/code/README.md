@@ -1,3 +1,4 @@
-# llm-zoomcamp
+# llm-zoomcamp 01_agentic_rag module
 
-Completed homework and projects for DataTalks.Club LLM Zoomcamp course 2026
+Contains homework for 01_agentic_rag module
+
